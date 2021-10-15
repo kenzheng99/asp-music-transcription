@@ -1,0 +1,3 @@
+[submodule "miditoolbox"]
+	path = miditoolbox
+	url = https://github.com/miditoolbox/1.1.git
